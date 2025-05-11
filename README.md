@@ -23,8 +23,8 @@ A welcoming entry point to the app that introduces its features and guides users
    - Access historical stock price data with flexible date filters
    - Visualize trends using interactive line and candlestick charts
    - Add technical indicators such as RSI, MACD, and Moving Averages
-     
-🔮 Stock Prediction Page
+
+### 🔮 Stock Prediction Page
 - Generate 30-day closing price forecasts using a custom time-series pipeline
    - View RMSE model evaluation scores
    - Understand future stock trends through interactive forecast charts
