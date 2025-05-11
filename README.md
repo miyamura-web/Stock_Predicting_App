@@ -98,12 +98,6 @@ Each graph is built using **Plotly** for responsiveness and interactivity, allow
 
 ---
 
-## 🔗 Live Demo
-Access the live app here 👉 [Stock Analysis & Prediction App](https://your-app-url.streamlit.app)
-
-
----
-
 
 ## ⚠️ Disclaimer
 
