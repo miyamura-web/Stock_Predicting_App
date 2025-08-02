@@ -31,7 +31,7 @@ A welcoming entry point to the app that introduces its features and guides users
 
 ![Screenshot 2025-05-11 165101](https://github.com/user-attachments/assets/e7499176-bac5-43de-b9ae-653a0b7d3796)
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## How to use :
 In the Ticker section, simply type your favorite stock ticker symbol (e.g., TSLA, AAPL, MSFT) and press Enter. The app will display all relevant stock information, including company details, key financial metrics, historical data, and interactive charts.
